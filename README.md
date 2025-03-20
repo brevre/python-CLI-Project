@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # python-CLI-Project
-=======
+
 📌 Password Manager
 A command-line Password Manager with encryption, secure storage, and password retrieval.
 
@@ -12,20 +12,14 @@ A command-line Password Manager with encryption, secure storage, and password re
 
 📦 Installation
 1️⃣ Clone the Repository
-sh
-Copy
-Edit
+
 git clone https://github.com/your-username/password-manager.git
 cd password-manager
 2️⃣ Install Dependencies
-sh
-Copy
-Edit
+
 pip install cryptography sqlalchemy
 3️⃣ Run the Program
-sh
-Copy
-Edit
+
 python main.py
 🔧 Usage
 📌 Add a User
@@ -61,6 +55,4 @@ Password for example.com deleted successfully!
 Python 🐍
 SQLite (via SQLAlchemy) 🗄
 Cryptography (AES Encryption) 🔒
-👨‍💻 Contributing
-Want to improve this project? Fork the repository and submit a Pull Request (PR).
->>>>>>> 74d1131 (Added funtionality)
+
